@@ -2,11 +2,9 @@
 
 **Effective date:** August 3, 2026
 
-**Last updated:** August 3, 2026
+**Last updated:** August 10, 2026
 
-> **Publication note:** Replace the bracketed operator and contact details before publishing this Policy as a final legal document.
-
-This Privacy Policy explains how **[operator legal name or business name]** (“Bloom,” “we,” “us,” or “our”) collects, uses, shares, and retains information when you use the Bloom Discord bot. Bloom is not affiliated with, endorsed by, or sponsored by Discord Inc.
+This Privacy Policy explains how (“Bloom,” “we,” “us,” or “our”) collects, uses, shares, and retains information when you use the Bloom Discord bot. Bloom is not affiliated with, endorsed by, or sponsored by Discord Inc.
 
 For information about how Discord handles your information, review [Discord’s Privacy Policy](https://discord.com/privacy). Discord may process and retain messages, account information, and other data independently of Bloom.
 
@@ -81,7 +79,7 @@ In-memory caches and temporary processing data are cleared according to the appl
 
 Depending on where you live, you may have rights to request access to, correction of, deletion of, restriction of, or a copy of your personal information, or to object to certain processing. You may also withdraw consent where processing is based on consent. These rights are subject to legal exceptions and may not apply in every situation.
 
-To make a request, contact us through the [official Bloom support server](https://discord.gg/playbloom) or **[privacy contact email]**. Include your Discord user ID and enough information for us to understand the request. We may need to verify that you control the relevant Discord account. Do not send your password, token, payment credentials, or other authentication secrets.
+To make a request, contact us through the [official Bloom support server](https://discord.gg/playbloom). Include your Discord user ID and enough information for us to understand the request. We may need to verify that you control the relevant Discord account. Do not send your password, token, payment credentials, or other authentication secrets.
 
 Bloom does not currently provide a general in-bot data deletion command. Deleting information may remove profiles, inventories, balances, albums, transactions, or other features and may not remove copies already posted in Discord, retained by Discord, held by other users, or required for fraud prevention, moderation, legal compliance, or the integrity of shared records.
 
@@ -103,4 +101,4 @@ We may update this Policy when Bloom, its data practices, or applicable requirem
 
 ## 10. Contact
 
-The operator responsible for Bloom is **[operator legal name or business name]**. For privacy questions or requests, contact **[privacy contact email]** or use the [official Bloom support server](https://discord.gg/playbloom).
+The operator responsible for Bloom is Bloom LLC. For privacy questions or requests, use the [official Bloom support server](https://discord.gg/playbloom).
