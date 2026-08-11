@@ -4,7 +4,7 @@
 
 **Last updated:** August 10, 2026
 
-This Privacy Policy explains how (“Bloom,” “we,” “us,” or “our”) collects, uses, shares, and retains information when you use the Bloom Discord bot. Bloom is not affiliated with, endorsed by, or sponsored by Discord Inc.
+This Privacy Policy explains how **Bloom LLC** (“Bloom,” “we,” “us,” or “our”) collects, uses, shares, and retains information when you use the Bloom Discord bot. Bloom is not affiliated with, endorsed by, or sponsored by Discord Inc.
 
 For information about how Discord handles your information, review [Discord’s Privacy Policy](https://discord.com/privacy). Discord may process and retain messages, account information, and other data independently of Bloom.
 
@@ -101,4 +101,4 @@ We may update this Policy when Bloom, its data practices, or applicable requirem
 
 ## 10. Contact
 
-The operator responsible for Bloom is Bloom LLC. For privacy questions or requests, use the [official Bloom support server](https://discord.gg/playbloom).
+The operator responsible for Bloom is **Bloom LLC**. For privacy questions or requests, use the [official Bloom support server](https://discord.gg/playbloom).
