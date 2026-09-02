@@ -2,7 +2,7 @@
 
 **Effective date:** August 3, 2026
 
-**Last updated:** August 10, 2026
+**Last updated:** September 1, 2026
 
 This Privacy Policy explains how **the Bloom team** (“Bloom,” “we,” “us,” or “our”) collects, uses, shares, and retains information when you use the Bloom Discord bot. Bloom is not affiliated with, endorsed by, or sponsored by Discord Inc.
 

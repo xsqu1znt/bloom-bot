@@ -2,7 +2,7 @@
 
 **Effective date:** August 3, 2026
 
-**Last updated:** August 10, 2026
+**Last updated:** September 1, 2026
 
 These Terms of Service (the “Terms”) govern your access to and use of Bloom, a Discord bot operated by **the Bloom team** (“Bloom,” “we,” “us,” or “our”). By inviting Bloom to a Discord server, using one of its commands, or interacting with it, you agree to these Terms. If you do not agree, do not use Bloom.
 
