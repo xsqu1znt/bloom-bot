@@ -1,4 +1,4 @@
-# Bloom Bot Terms of Service
+# Terms of Service
 
 **Effective date:** August 3, 2026
 

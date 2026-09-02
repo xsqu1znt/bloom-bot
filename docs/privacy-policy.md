@@ -1,4 +1,4 @@
-# Bloom Bot Privacy Policy
+# Privacy Policy
 
 **Effective date:** August 3, 2026
 
