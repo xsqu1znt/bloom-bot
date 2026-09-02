@@ -4,7 +4,7 @@
 
 **Last updated:** August 10, 2026
 
-These Terms of Service (the “Terms”) govern your access to and use of Bloom, a Discord bot operated by **Bloom LLC** (“Bloom,” “we,” “us,” or “our”). By inviting Bloom to a Discord server, using one of its commands, or interacting with it, you agree to these Terms. If you do not agree, do not use Bloom.
+These Terms of Service (the “Terms”) govern your access to and use of Bloom, a Discord bot operated by **the Bloom team** (“Bloom,” “we,” “us,” or “our”). By inviting Bloom to a Discord server, using one of its commands, or interacting with it, you agree to these Terms. If you do not agree, do not use Bloom.
 
 ## 1. The service
 
@@ -53,7 +53,7 @@ You may stop using Bloom at any time. Stopping use does not automatically delete
 
 ## 7. Intellectual property and third-party services
 
-Bloom’s software, name, branding, and original materials are owned by **Bloom LLC** or their respective rights holders and are protected by applicable law. These Terms do not grant you ownership of them.
+Bloom’s software, name, branding, and original materials are owned by **the Bloom team** or their respective rights holders and are protected by applicable law. These Terms do not grant you ownership of them.
 
 Third-party names, images, artwork, trademarks, Discord, Discord servers, and other materials remain the property of their respective owners. You are responsible for ensuring that content you submit or upload may lawfully be used. Bloom relies on Discord and other hosting, database, storage, and content-delivery services that are governed by their own terms and policies.
 
@@ -63,13 +63,13 @@ Bloom is provided on an “as is” and “as available” basis. To the fullest
 
 ## 9. Limitation of liability
 
-To the fullest extent permitted by law, **Bloom LLC** and its owners, staff, contractors, and service providers will not be liable for indirect, incidental, special, consequential, exemplary, or punitive damages, or for loss of data, virtual items, profits, goodwill, or access arising from or related to Bloom.
+To the fullest extent permitted by law, **the Bloom team** and its members, staff, contractors, and service providers will not be liable for indirect, incidental, special, consequential, exemplary, or punitive damages, or for loss of data, virtual items, profits, goodwill, or access arising from or related to Bloom.
 
 Nothing in these Terms excludes or limits liability that cannot legally be excluded or limited, including liability for fraud or for death or personal injury caused by negligence where applicable law prohibits that limitation.
 
 ## 10. Indemnity
 
-To the extent permitted by law, you agree to indemnify and hold harmless **Bloom LLC** and its owners, staff, contractors, and service providers from claims, losses, liabilities, and expenses arising from your User Content, your misuse of Bloom, or your violation of these Terms, Discord’s rules, or applicable law.
+To the extent permitted by law, you agree to indemnify and hold harmless **the Bloom team** and its members, staff, contractors, and service providers from claims, losses, liabilities, and expenses arising from your User Content, your misuse of Bloom, or your violation of these Terms, Discord’s rules, or applicable law.
 
 ## 11. Changes to these Terms
 
